@@ -18,8 +18,8 @@ A basic real-time chat application built with HTML, CSS, JavaScript, Node.js, So
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Adityap340/Chat-Web-App.git
-    cd chat-application
+    [git clone https://github.com/Adityap340/Chat-Web-App.git](https://github.com/Adityap340/Chat-Web-App.git)
+    cd Chat-Web-App
     ```
 
 2. Install dependencies:
@@ -31,7 +31,7 @@ A basic real-time chat application built with HTML, CSS, JavaScript, Node.js, So
 3. Start the application:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. Open your browser and go to [http://localhost:3000](http://localhost:3000) to access the chat application.
